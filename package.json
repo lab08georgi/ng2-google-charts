@@ -1,5 +1,5 @@
 {
-  "name": "ng2-google-charts",
+  "name": "lab08-ng2-google-charts",
   "version": "0.0.0",
   "description": "Angular2 Google Charts module",
   "private": true,
@@ -31,10 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gmazzamuto/ng2-google-charts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gmazzamuto/ng2-google-charts/issues"
+    "url": "git+ssh://git@github.com/lab08georgi/ng2-google-charts.git"
   },
   "homepage": "https://www.devrandom.it/software/ng2-google-charts/",
   "dependencies": {
