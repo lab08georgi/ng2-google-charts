@@ -1,5 +1,5 @@
 {
-  "name": "lab08-ng2-google-charts",
+  "name": "lab08-google-charts",
   "version": "3.6.0",
   "devDependencies": {
     "ng-packagr": "^4.7.1"
